@@ -1,1 +1,1 @@
-# HttpServer
+Basic HttpServer. Developed while mastering Communication and Concurrency skills.
